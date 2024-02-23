@@ -1,0 +1,6 @@
+<strings>
+    <string id="AppName">Weight Watch</string>
+    <string id="WeightPrefix" scope="glance">Weight: </string>
+    <string id="ItemNotSet" scope="glance">Not Set</string>
+    <string id="KgUnits" scope="glance">kg</string>
+</strings>
